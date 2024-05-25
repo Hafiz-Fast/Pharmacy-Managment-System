@@ -1,0 +1,9 @@
+-> An Object-Oriented Programming Project using C++
+-> Pharmacy Management System which handles All concepts of OOP such as Abstraction, Inheritance and Polymorphism.
+-> Involves all the necessary functionalities such as:
+-> Purchasing Prescription and Non-Prescription Medicines
+-> Handling their record
+-> Invloves Cart functionality to add and delete items
+-> Manages Employee Management
+-> Involves features like Getting Subscription Cards and discounts
+-> Provides a Graphic-User-Interface and much more
